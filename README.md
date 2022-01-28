@@ -1,4 +1,5 @@
-Estes Projetos fora feito seguindo o curso da udemy Dividido em 4 projetos praticos 
+Estes Projetos fora feito seguindo o curso da udemy  "Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS" Dividido em 4 projetos praticos Professor/Orientador Jorge Sant Ana
+
 
 1º Projeto Super Gestão:com os fundamentos basicos de laravel apartir do laravel 7x 
   Introdução
